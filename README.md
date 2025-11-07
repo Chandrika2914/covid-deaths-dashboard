@@ -4,9 +4,13 @@ A Tableau dashboard analyzing global COVID-19 data to understand deaths, infecti
 The goal is to combine multiple data sources, transform them for analysis, and present key insights through an interactive visual interface.
 
 ---
+## Dashboard Preview
 
-## Live Visualization
-[View on Tableau Public](https://public.tableau.com/app/profile/chandrika.patibandla1429/viz/Covid_Deaths_Dashboard1/Dashboard1)
+<p align="center">
+  <img src="./images/Covid_Deaths_Dashboard.png" width="90%">
+</p>
+
+<p align="center"><em>Figure: Global distribution and progression of COVID-19 infections, deaths, and vaccinations.</em></p>
 
 ---
 
@@ -68,16 +72,6 @@ Data preprocessing was completed using Excel and Tableau Prep, followed by model
 - Death and infection rates varied widely, indicating differences in healthcare capacity and reporting.
 
 ---
-## Dashboard Preview
-
-<p align="center">
-  <img src="./images/Covid_Deaths_Dashboard.png" width="90%">
-</p>
-
-<p align="center"><em>Figure: Global distribution and progression of COVID-19 infections, deaths, and vaccinations.</em></p>
-
-
----
 
 ## Tools and Skills
 
@@ -88,6 +82,11 @@ Data preprocessing was completed using Excel and Tableau Prep, followed by model
 | Analytics           | Calculated Fields, Aggregations, Joins, Relationships              |
 | Design Practices    | Layout organization, color encoding, interactive storytelling      |
 | Version Control     | Git, GitHub, Git LFS for large Tableau workbooks                   |
+
+---
+
+## Live Visualization
+[View on Tableau Public](https://public.tableau.com/app/profile/chandrika.patibandla1429/viz/Covid_Deaths_Dashboard1/Dashboard1)
 
 ---
 

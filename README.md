@@ -44,17 +44,6 @@ Data preprocessing was completed using Excel and Tableau Prep, followed by model
    - Joined CovidDeaths_Original and CovidVaccinations_Original on `Location` and `Date`.
    - Verified relationships between tables using Tableau’s data model view.
 
-3. **Calculated Fields**
-   ```text
-   Death Rate (%) = (SUM([Total Deaths]) / SUM([Total Cases])) * 100
-   Infection Rate (%) = (SUM([Total Cases]) / SUM([Population])) * 100
-   Vaccination Coverage (%) = (SUM([People Vaccinated]) / SUM([Population])) * 100
-
-
-4) **Aggregations**
-- Built continent-level summaries.
-- Extracted subsets (Tables 1–4) to improve dashboard performance.
-
 ---
 
 ## Dashboard Design

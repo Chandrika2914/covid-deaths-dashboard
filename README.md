@@ -81,9 +81,12 @@ Data preprocessing was completed using Excel and Tableau Prep, followed by model
 ---
 ## Dashboard Preview
 
-![COVID-19 Dashboard](./images/Covid_Deaths-dashboard.png)
+<p align="center">
+  <img src="./images/Covid_Deaths_Dashboard.png" width="90%">
+</p>
 
-*Figure: Global distribution and progression of COVID-19 infections, deaths, and vaccinations.*
+<p align="center"><em>Figure: Global distribution and progression of COVID-19 infections, deaths, and vaccinations.</em></p>
+
 
 ---
 
